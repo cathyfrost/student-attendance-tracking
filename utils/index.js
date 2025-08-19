@@ -5,7 +5,7 @@ const connection = await mysql.createPool({
   host: "localhost",
   user: "root",
   database: "student",
-  password: "ht631414",
+  password: "",
   port: '3306'
 });
 
